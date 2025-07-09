@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython build artifacts
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+.venv
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook runtime files
+*.nbconvert.ipynb
+*.nbconvert/
+*.nbconvert_files/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Local data and model artifacts
+data/
+models/
+*.csv
+*.tsv
+*.xlsx
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Gensim & NLP
+*.mm
+*.dict
+*.lda
+*.lda.model
+*.id2word
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Notebooks output
+*.out
